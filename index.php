@@ -12,7 +12,7 @@
     <main>
         <h2><span class="azul-oscuro">Club</span><span class="amarillo-oscuro"> Atlético</span><span class="azul-oscuro"> Rosario</span><span class="amarillo-oscuro"> Central</span></h2>
         <p>
-            El código de el desarrollo se encuentra en <a href="
+             <a href="https://github.com/juanmafc22/utn-php-wordpress" target="_blank" class="amarillo-oscuro">El código de el desarrollo se encuentra aquí</a> <br>
         </p>
         <p>
             Toda la info del &lt;header&gt; del HTML lo traigo con un include <br>
