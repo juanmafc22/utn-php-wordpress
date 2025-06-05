@@ -15,7 +15,7 @@
              <a href="https://github.com/juanmafc22/utn-php-wordpress" target="_blank" class="amarillo-oscuro">El código del desarrollo se encuentra aquí</a> <br>
         </p>
         <p>
-            Toda la info del &lt;header&gt; del HTML lo traigo con un include <br>
+            Toda la info del &lt;head&gt; del HTML lo traigo con un include <br>
             - El include lo traigo desde ./layouts/header.php <br>
 
         </p>
