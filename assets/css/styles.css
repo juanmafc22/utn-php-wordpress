@@ -20,7 +20,7 @@ body {
   margin: 40px 40px;
 }
 
-header {
+header, footer {
   background-color: var(--color-azul-oscuro);
   color: var(--color-blanco);
   padding: 10px 20px 10px;
@@ -50,6 +50,10 @@ p {
   line-height: 1.5;
 }
 
+li {
+  margin-left: 25px;
+}
+
 .azul-oscuro {
   color: var(--color-azul-oscuro);
 }
@@ -66,7 +70,7 @@ p {
     align-items: flex-start
   }
 
-  header {
+  header, footer {
     padding: 20px 40px;
     max-width: 768px;
     width: 100%;
